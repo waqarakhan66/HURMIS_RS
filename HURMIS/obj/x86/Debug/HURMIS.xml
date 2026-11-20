@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HURMIS
+</name>
+</assembly>
+<members>
+<member name="T:HURMIS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HURMIS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HURMIS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.gpDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.sectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.wngDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.educationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.qualificationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.officeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.pvDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.postingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.dsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.gpRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.sectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.wngRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.educationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.qualificationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.officeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.pvRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.postingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.dsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.designationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.gpRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.sectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.wngRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.educationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.qualificationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.officeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.pvRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.postingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSet.dsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.designationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.designationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.gpTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.sectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.wngTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.educationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.qualificationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.officeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.pvTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.postingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.dsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HURMIS.HURMISDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HURMIS.HURMISDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HURMIS.HURMISDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.UpdateAll(HURMIS.HURMISDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:HURMIS.HURMISDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
